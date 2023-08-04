@@ -34,7 +34,7 @@ tree =    1
 {% endhint %}
 
 {% tabs %}
-{% tab title="First Tab" %}
+{% tab title="Solution" %}
 {% code title="binaryTreeDepth.js" overflow="wrap" lineNumbers="true" %}
 ```javascript
 // O(n) time | O(h) space

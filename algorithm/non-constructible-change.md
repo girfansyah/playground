@@ -15,7 +15,7 @@
 {% endhint %}
 
 {% tabs %}
-{% tab title="First Tab" %}
+{% tab title="Solution" %}
 {% code overflow="wrap" lineNumbers="true" %}
 ```javascript
 function nonConstructibleChange(coins) {

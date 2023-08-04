@@ -15,7 +15,7 @@ array = [1, 2, 3, 5, 6, 8, 9]
 {% endhint %}
 
 {% tabs %}
-{% tab title="First Tab" %}
+{% tab title="Solution 1" %}
 ```javascript
 // O(nlogn) time | O(n) space
 
@@ -34,9 +34,5 @@ function sortedSquaredArray(array) {
 console.log(sortedSquaredArray([1, 2, 3, 5, 6, 8, 9]));
 
 ```
-{% endtab %}
-
-{% tab title="Second Tab" %}
-
 {% endtab %}
 {% endtabs %}
