@@ -5,4 +5,4 @@
 ## Algorithm
 
 * [1⃣ Two number sum](algorithm/two-number-sum.md)
-* [✨ Our Features](algorithm/our-features.md)
+* [2⃣ Validate Subsequence](algorithm/validate-subsequence.md)

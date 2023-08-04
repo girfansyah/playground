@@ -24,8 +24,8 @@ Here are a couple of example overviews from products with really great docs:
 [two-number-sum.md](algorithm/two-number-sum.md)
 {% endcontent-ref %}
 
-{% content-ref url="algorithm/our-features.md" %}
-[our-features.md](algorithm/our-features.md)
+{% content-ref url="algorithm/validate-subsequence.md" %}
+[validate-subsequence.md](algorithm/validate-subsequence.md)
 {% endcontent-ref %}
 
 ## Get Started
