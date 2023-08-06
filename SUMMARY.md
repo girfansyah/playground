@@ -11,6 +11,7 @@
 * [Find the Closest Value in the Binary tree search](algorithm/find-the-closest-value-in-the-binary-tree-search.md)
 * [Node Depths](algorithm/node-depths.md)
 * [Branch sum](algorithm/branch-sum.md)
+* [Minimum waiting time](algorithm/minimum-waiting-time.md)
 * [Cash  Register](algorithm/draft-algo/cash-register.md)
 * [Caesar cipher](algorithm/draft-algo/caesar-cipher.md)
 * [Bubble sort](algorithm/draft-algo/bubble-sort.md)
