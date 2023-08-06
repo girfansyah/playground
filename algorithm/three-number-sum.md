@@ -23,7 +23,7 @@ Sample output
 &#x20;
 
 {% tabs %}
-{% tab title="First Tab" %}
+{% tab title="Solution" %}
 ```javascript
 function threeNumberSum(array, targetSum) {
   const triplets = [];
@@ -51,9 +51,5 @@ function threeNumberSum(array, targetSum) {
   return triplets;
 }
 ```
-{% endtab %}
-
-{% tab title="Second Tab" %}
-
 {% endtab %}
 {% endtabs %}
