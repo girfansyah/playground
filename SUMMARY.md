@@ -14,6 +14,7 @@
 * [Minimum waiting time](algorithm/minimum-waiting-time.md)
 * [Three number sum](algorithm/three-number-sum.md)
 * [Closest Pair](algorithm/closest-pair.md)
+* [Move Element To End](algorithm/move-element-to-end.md)
 * [Cash  Register](algorithm/draft-algo/cash-register.md)
 * [Caesar cipher](algorithm/draft-algo/caesar-cipher.md)
 * [Bubble sort](algorithm/draft-algo/bubble-sort.md)
