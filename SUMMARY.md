@@ -4,8 +4,8 @@
 
 ## Algorithm
 
-* [1⃣ 1⃣ Two number sum](algorithm/two-number-sum.md)
-* [2⃣ 2⃣ Validate Subsequence](algorithm/validate-subsequence.md)
+* [Two number sum](algorithm/two-number-sum.md)
+* [Validate Subsequence](algorithm/validate-subsequence.md)
 * [Sorted squared array](algorithm/sorted-squared-array.md)
 * [Non-Constructible Change](algorithm/non-constructible-change.md)
 * [Find the Closest Value in the Binary tree search](algorithm/find-the-closest-value-in-the-binary-tree-search.md)
